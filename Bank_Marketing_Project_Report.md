@@ -84,9 +84,3 @@ Optimal threshold **≈ 0.48** balanced recall and precision.
 **Python, Pandas, NumPy, SciPy, Seaborn, Scikit-Learn, XGBoost, UCI ML Repo**
 
 ---
-
-## 8. LinkedIn Post Caption
-> Completed ML project: *Predicting Term Deposit Subscriptions using Bank Marketing Data*  
-> Built an XGBoost model (ROC-AUC=0.80) analyzing 40K+ records.  
-> Discovered how past campaigns, timing & contact method impact conversion.  
-> #DataScience #MachineLearning #Python #BankMarketing #Analytics #XGBoost
